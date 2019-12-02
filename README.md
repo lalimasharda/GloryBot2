@@ -1,4 +1,2 @@
 # GloryBot2
-Connecting GitHub with Slack
-
-.
+Connecting GitHub with Slack.
